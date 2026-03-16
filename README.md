@@ -22,4 +22,4 @@ A console-based Bus Ticket Booking System developed using Java and MySQL.
 3. Run Main.java
 
 ## 👩‍💻 Author
-Supriya - 2nd Year CSE Student
+Nikhil - 2nd Year CSE Student
